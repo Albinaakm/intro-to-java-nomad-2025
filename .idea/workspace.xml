@@ -4,18 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67afc97c-9b1f-4a92-894c-d16b67b6dd55" name="Changes" comment="Feat: lab 1">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/beecrowd/beecrowd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-01/lab-01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-01/src/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-01/src/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-01/src/task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-01/src/task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="67afc97c-9b1f-4a92-894c-d16b67b6dd55" name="Changes" comment="feat: lab-1 test">
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/beecrowd/src/beec9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-02/lab-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-02/src/problem1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-02/src/problem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-02/src/problem3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-02/src/problem4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab-02/src/problem5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,8 +68,20 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Beec1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Beec100.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.beec12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.beec13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.beec2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.beec3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.beec4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.beec5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problem5.executor&quot;: &quot;Run&quot;,
     &quot;Application.task1.executor&quot;: &quot;Run&quot;,
     &quot;Application.task2.executor&quot;: &quot;Run&quot;,
     &quot;Application.task3.executor&quot;: &quot;Run&quot;,
@@ -63,7 +101,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/macbook/IdeaProjects/Intro-to-java-nomad-2025/lab-01/src/Main.java&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/macbook/IdeaProjects/Intro-to-java-nomad-2025/lab-02/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -73,49 +111,49 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.task6">
-    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task1" />
-      <module name="lab-01" />
+  <component name="RunManager" selected="Application.beec13">
+    <configuration name="beec12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beec12" />
+      <module name="beecrowd" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task2" />
-      <module name="lab-01" />
+    <configuration name="beec13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beec13" />
+      <module name="beecrowd" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task3" />
-      <module name="lab-01" />
+    <configuration name="beec2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beec2" />
+      <module name="beecrowd" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task5" />
-      <module name="lab-01" />
+    <configuration name="beec5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="beec5" />
+      <module name="beecrowd" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task6" />
-      <module name="lab-01" />
+    <configuration name="problem5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem5" />
+      <module name="lab-02" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task6" />
-        <item itemvalue="Application.task5" />
-        <item itemvalue="Application.task3" />
-        <item itemvalue="Application.task2" />
-        <item itemvalue="Application.task1" />
+        <item itemvalue="Application.beec13" />
+        <item itemvalue="Application.beec12" />
+        <item itemvalue="Application.beec5" />
+        <item itemvalue="Application.beec2" />
+        <item itemvalue="Application.problem5" />
       </list>
     </recent_temporary>
   </component>
@@ -123,7 +161,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
       </set>
     </attachedChunks>
   </component>
@@ -135,7 +172,8 @@
       <option name="presentableId" value="Default" />
       <updated>1758551973754</updated>
       <workItem from="1758551974756" duration="7198000" />
-      <workItem from="1758596576341" duration="3177000" />
+      <workItem from="1758596576341" duration="21166000" />
+      <workItem from="1760022251830" duration="1257000" />
     </task>
     <task id="LOCAL-00001" summary="Feat: lab 1">
       <option name="closed" value="true" />
@@ -145,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758597302950</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat: lab-1 test">
+      <option name="closed" value="true" />
+      <created>1758600888338</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758600888338</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +210,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Feat: lab 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: lab 1" />
+    <MESSAGE value="feat: lab-1 test" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: lab-1 test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -174,6 +221,15 @@
           <line>11</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lab-02/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
